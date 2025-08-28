@@ -1,2 +1,1 @@
-# EWU_CafeteriaProject
-EWU_CafeteriaProject Description
+# EWU-Cafeteria
